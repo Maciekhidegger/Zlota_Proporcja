@@ -2,7 +2,7 @@
 
 
 
-He is the creator of the program Gerin_Befis
+The creator of the program is Gerin_Befis
 
 To run the program on linux you need:
 
